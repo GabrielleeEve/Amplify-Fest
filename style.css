@@ -1,6 +1,17 @@
+.navBar {
+  background-color: black;
+
+  padding: 10px;
+}
+
+.navBar a {
+  text-decoration: none;
+  color: #f6f6f6;
+}
+
 /* Nav bar Explore button drop down menu */
 .dropdownBtn {
-  padding: 16px;
+  padding: 10px;
   font-size: 16px;
   border: none;
 }
